@@ -9,6 +9,7 @@ public class Main {
         task8();
     }
     public static void task1and2() {
+        System.out.println("Задача 1 и 2");
         byte xs = 67;
         short s = -159;
         short s2 = 569;
@@ -26,6 +27,7 @@ public class Main {
         System.out.println("Значение переменной xxl с типом double равно "+ xxl);
     }
     public static void task3() {
+        System.out.println("Задача 3");
         int ludmilaP = 23;
         int annaS = 27;
         int ekaterinaA = 30;
@@ -34,6 +36,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + paperPerPerson + " листов бумаги.");
     }
     public static void task4() {
+        System.out.println("Задача 4");
         int bottle2Min = 16 ;
         int bottle1Min = bottle2Min/2 ;
         int bottle20Min = bottle1Min*20;
@@ -46,6 +49,7 @@ public class Main {
         System.out.println("За месяц (из 30 дней) машина произвела " + bottle1Month + " штук бутылок.");
     }
     public static void task5() {
+        System.out.println("Задача 5");
         int totalTin = 120;
         int whiteTinPerRoom = 2;
         int brownTinPerRoom = 4;
@@ -56,6 +60,7 @@ public class Main {
         System.out.println("В школе, где " + numberOfRooms + " классов, нужно " + totalWhiteTin + " банок белой краски и " + totalBrownTin + " банок коричневой краски.");
     }
     public static void task6() {
+        System.out.println("Задача 6");
         int bananas = 5 ;
         int weightBananas = bananas * 80;
         double milk = 200;
@@ -69,6 +74,7 @@ public class Main {
         System.out.println("Вес спортзавтрака в граммах : " + totalWeightGr + " , а в килограммах : "+ totalWeightKg);
     }
     public static void task7() {
+        System.out.println("Задача 7");
         int totalWeightKg = 7;
         int totalWeightGr = totalWeightKg*1000;
         int minWeightPerDay = 250;
@@ -79,6 +85,7 @@ public class Main {
         System.out.println("Минимальное время на похудение: " + minTime+ " максимальное : " + maxTime + " среднее время: " + averageTime);
     }
     public static void task8() {
+        System.out.println("Задача 8");
         int MashaW = 67760;
         int DenisW = 83690;
         int KristinaW = 76230;
